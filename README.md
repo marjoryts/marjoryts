@@ -50,4 +50,4 @@ I'm a developer focused on <strong>Front-End</strong>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/marjory-sousa-b77b462b7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marjory-sousa-b77b462b7/)  

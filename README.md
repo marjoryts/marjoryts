@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hello, I'm Marjory! ✨</h1>
 
 <p align="center">
-I'm a developer focused on <strong>Front-End</strong> 
+I'm a developer focused on <strong>Front-End</strong> and performance, accessibility, and modern UI/UX
 </p>
 
 ---

@@ -23,21 +23,14 @@ I'm a developer focused on <strong>Front-End</strong>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=marjoryts&show_icons=true&theme=dark&hide_title=true&hide_border=true&icon_color=FBEFFF&text_color=FBEFFF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=marjoryts&show_icons=true&hide_title=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=marjoryts&show_icons=true" alt="GitHub Stats" />
-  </picture>
-</p>
-
----
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=200em align="center" src="https://github-readme-stats.vercel.app/api?username=marjoryts&show_icons=true&theme=tokyonight"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img height=200em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marjoryts&layout=compact&theme=dark"/>
+</a>
+</div>
 
 ### 🧠 Learning
 

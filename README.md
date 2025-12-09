@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hello, I'm Marjory! ✨</h1>
 
 <p align="center">
-I'm a developer focused on <strong>Front-End</strong> and performance, accessibility, and modern UI/UX
+I'm a developer focused on <strong>Back-End</strong> and performance, accessibility, and modern UI/UX
 </p>
 
 ---
@@ -23,14 +23,17 @@ I'm a developer focused on <strong>Front-End</strong> and performance, accessibi
 
 ### 📊 GitHub Stats
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200em align="center" src="https://github-readme-stats.vercel.app/api?username=marjoryts&show_icons=true&theme=tokyonight"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img height=200em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marjoryts&layout=compact&theme=dark"/>
-</a>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ### 🧠 Learning
 

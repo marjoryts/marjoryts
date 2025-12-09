@@ -23,7 +23,7 @@ I'm a developer focused on <strong>Back-End</strong> and performance, accessibil
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjoryts&layout=compact&theme=dark)
+![GitHub Stats](https://githubstats.com.br/api/stats?username=marjoryts&theme=dark&showBorder=true&language=pt&type=stats)
 
 
 ### 🧠 Learning

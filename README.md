@@ -23,7 +23,7 @@ I'm a developer focused on <strong>Back-End</strong> and performance, accessibil
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjoryts)](https://github.com/anuraghazra/github-readme-stats)
+[![Marjory's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjoryts)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🧠 Learning

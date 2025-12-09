@@ -23,12 +23,13 @@ I'm a developer focused on <strong>Back-End</strong> and performance, accessibil
 
 ### 📊 GitHub Stats
 
-![mj's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjoryts&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marjoryts&layout=compact&theme=dark)
+
 ### 🧠 Learning
 
 - React.js
 - Node.js
--- Python
+-  Python
 ---
 
 ### 🌐 Where to find me.
